@@ -1,7 +1,7 @@
 # hello-world
 First repository created on GItHub !
 
-Trying the commit feature!
+Tring te coure!
 
 fdsfdsfsdfsdfsf
 
